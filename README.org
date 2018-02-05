@@ -1,5 +1,9 @@
 #+TITLE: pkr
 
+#+BEGIN_QUOTE
+Repository moved [[https://github.com/reichlab/pkr][here]]
+#+END_QUOTE
+
 Command line package/script management for R based on [[https://rstudio.github.io/packrat/][packrat]].
 
 * Install
